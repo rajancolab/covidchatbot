@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Vinay\\Projects\\Covid\\Chat Bot\\CovidBotProject\\CovidBot\\model.tflearn"
+all_model_checkpoint_paths: "C:\\Vinay\\Projects\\Covid\\Chat Bot\\CovidBotProject\\CovidBot\\model.tflearn"
