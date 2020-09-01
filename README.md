@@ -23,3 +23,5 @@ By default the app will run on port 8000, in case you need to change the port ju
 ```bash
 python manage.py runserver localhost:[YOUR PORT NUMBER]
 ```
+
+![alt text](https://github.com/vinaypatil03/django-based-covid-19-chatbot/blob/master/Chatbot%20snippet.PNG)
